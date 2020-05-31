@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/khanna-me/static/css/main.63a8a666.chunk.css",
+    "main.js": "/khanna-me/static/js/main.59a97e05.chunk.js",
+    "main.js.map": "/khanna-me/static/js/main.59a97e05.chunk.js.map",
+    "runtime-main.js": "/khanna-me/static/js/runtime-main.96433710.js",
+    "runtime-main.js.map": "/khanna-me/static/js/runtime-main.96433710.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/khanna-me/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.18dc92d9.chunk.js": "/khanna-me/static/js/2.18dc92d9.chunk.js",
+    "static/js/2.18dc92d9.chunk.js.map": "/khanna-me/static/js/2.18dc92d9.chunk.js.map",
+    "index.html": "/khanna-me/index.html",
+    "precache-manifest.d72f02e11be04a020ea08305ae40d179.js": "/khanna-me/precache-manifest.d72f02e11be04a020ea08305ae40d179.js",
+    "service-worker.js": "/khanna-me/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/khanna-me/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.63a8a666.chunk.css.map": "/khanna-me/static/css/main.63a8a666.chunk.css.map",
+    "static/js/2.18dc92d9.chunk.js.LICENSE.txt": "/khanna-me/static/js/2.18dc92d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96433710.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.18dc92d9.chunk.js",
+    "static/css/main.63a8a666.chunk.css",
+    "static/js/main.59a97e05.chunk.js"
+  ]
+}
