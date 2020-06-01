@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f81fe24319426f2b9893fa956223a2a",
+    "revision": "d426176304c3b5b091657f65b9ac9495",
     "url": "/khanna-me/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/khanna-me/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "043f866b5fcd7e3dfe3b",
+    "revision": "7d35a0d47ef9cc46b491",
     "url": "/khanna-me/static/css/main.63a8a666.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/khanna-me/static/js/2.79344292.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "043f866b5fcd7e3dfe3b",
-    "url": "/khanna-me/static/js/main.486023e6.chunk.js"
+    "revision": "7d35a0d47ef9cc46b491",
+    "url": "/khanna-me/static/js/main.bc2be366.chunk.js"
   },
   {
     "revision": "2e940c61d974253a1937",
