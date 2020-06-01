@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/khanna-me/precache-manifest.ac4ccba7c12566a358116b28b8ca3232.js"
+  "/khanna-me/precache-manifest.8a06b473b28a202a0385394d62a7fee9.js"
 );
 
 self.addEventListener('message', (event) => {
