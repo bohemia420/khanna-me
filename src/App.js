@@ -1,26 +1,31 @@
 import React from 'react';
-import logo from './logo.svg';
+import ReactDOM from 'react-dom';
+import { Switch, Route, Link, HashRouter as Router } from 'react-router-dom';
+import Home from './components/Home/Home';
+import { Blog, Interests, Misc, Presence, Projects, Resume } from './components/Routes';
+import { Navbar } from './utilities/Navbar';
 import './App.css';
+import { Form, FormControl, Button, Nav, Navbar as NavBar } from 'react-bootstrap';
 
-function App() {
+class App extends React.Component  {
+  render(){
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Navbar/>
+      <Router basename={process.env.PUBLIC_URL}>
+        <Switch>
+          <Route exact path="/" component={Home} />
+          <Route path="/blog" component={Blog} />
+          <Route path="/resume" component={Resume} />
+          <Route path="/projects" component={Projects} />
+          <Route path="/interests" component={Interests} />
+          <Route path="/presence" component={Presence} />
+          <Route path="/misc" component={Misc} />
+        </Switch>
+      </Router>
     </div>
   );
+  }
 }
 
 export default App;
