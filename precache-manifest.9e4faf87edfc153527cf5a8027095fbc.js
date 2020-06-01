@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59276a3b2309ecc0adffe4af053ad8ca",
+    "revision": "2ae2dbbbc97975fc0dc5f8c4da9c94c3",
     "url": "/khanna-me/index.html"
   },
   {
-    "revision": "3126a5a6252ab0879d10",
+    "revision": "4df29d224d64915ca094",
     "url": "/khanna-me/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "3ee7452dcceab0bf62a0",
+    "revision": "2f4c6213f393f515aefd",
     "url": "/khanna-me/static/css/main.63a8a666.chunk.css"
   },
   {
-    "revision": "3126a5a6252ab0879d10",
-    "url": "/khanna-me/static/js/2.6886a2ba.chunk.js"
+    "revision": "4df29d224d64915ca094",
+    "url": "/khanna-me/static/js/2.79344292.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/khanna-me/static/js/2.6886a2ba.chunk.js.LICENSE.txt"
+    "url": "/khanna-me/static/js/2.79344292.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3ee7452dcceab0bf62a0",
-    "url": "/khanna-me/static/js/main.fe2fd9f3.chunk.js"
+    "revision": "2f4c6213f393f515aefd",
+    "url": "/khanna-me/static/js/main.193daa86.chunk.js"
   },
   {
     "revision": "2e940c61d974253a1937",

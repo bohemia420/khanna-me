@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/khanna-me/static/css/main.63a8a666.chunk.css",
-    "main.js": "/khanna-me/static/js/main.fe2fd9f3.chunk.js",
-    "main.js.map": "/khanna-me/static/js/main.fe2fd9f3.chunk.js.map",
+    "main.js": "/khanna-me/static/js/main.193daa86.chunk.js",
+    "main.js.map": "/khanna-me/static/js/main.193daa86.chunk.js.map",
     "runtime-main.js": "/khanna-me/static/js/runtime-main.96433710.js",
     "runtime-main.js.map": "/khanna-me/static/js/runtime-main.96433710.js.map",
     "static/css/2.af3c1da9.chunk.css": "/khanna-me/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.6886a2ba.chunk.js": "/khanna-me/static/js/2.6886a2ba.chunk.js",
-    "static/js/2.6886a2ba.chunk.js.map": "/khanna-me/static/js/2.6886a2ba.chunk.js.map",
+    "static/js/2.79344292.chunk.js": "/khanna-me/static/js/2.79344292.chunk.js",
+    "static/js/2.79344292.chunk.js.map": "/khanna-me/static/js/2.79344292.chunk.js.map",
     "index.html": "/khanna-me/index.html",
-    "precache-manifest.b55e3050f525b05199f637fe0d4af714.js": "/khanna-me/precache-manifest.b55e3050f525b05199f637fe0d4af714.js",
+    "precache-manifest.9e4faf87edfc153527cf5a8027095fbc.js": "/khanna-me/precache-manifest.9e4faf87edfc153527cf5a8027095fbc.js",
     "service-worker.js": "/khanna-me/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/khanna-me/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.63a8a666.chunk.css.map": "/khanna-me/static/css/main.63a8a666.chunk.css.map",
-    "static/js/2.6886a2ba.chunk.js.LICENSE.txt": "/khanna-me/static/js/2.6886a2ba.chunk.js.LICENSE.txt"
+    "static/js/2.79344292.chunk.js.LICENSE.txt": "/khanna-me/static/js/2.79344292.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.96433710.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.6886a2ba.chunk.js",
+    "static/js/2.79344292.chunk.js",
     "static/css/main.63a8a666.chunk.css",
-    "static/js/main.fe2fd9f3.chunk.js"
+    "static/js/main.193daa86.chunk.js"
   ]
 }
